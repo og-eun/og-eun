@@ -1,4 +1,4 @@
-### 👋 [Click me!](https://og-eun.github.io)
+### 👋 [OG Blog!](https://og-eun.github.io)
 
 
 <!--
