@@ -1,17 +1,10 @@
-<img src="https://img.shields.io/badge/-Backend%20Developer-lightgrey?style=flat-square"/>
-
-***
-
-### OG' Blog  ➖   [:octocat: 🌏 :octocat:](https://og-eun.github.io)
-
+###  ✨ I'm a `Backend Developer` ✨
+<!-- <img src="https://img.shields.io/badge/-Backend%20Developer-lightgrey?style=flat-square"/> -->
 
 [![og-eun's github stats](https://github-readme-stats.vercel.app/api?username=og-eun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=og-eun&theme=dark) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=og-eun&theme=dark) 
 
 <!--
 **og-eun/og-eun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
