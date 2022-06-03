@@ -1,6 +1,4 @@
 ###  ✨ I'm a `Backend Developer` ✨
-#### *nowdays I'm doing React too..*
-
 
 ***
 
