@@ -1,4 +1,4 @@
-###  ✨ I'm a `그냥 Engineer` ✨
+###  그냥 Engineer
 
 ***
 
